@@ -7,4 +7,4 @@
 This is an optional part for every account. He can either enable notifications or disable them 
 
 **Video** :
-
+https://github.com/AhmedWagdi1/salonhub_fixes/blob/main/sh1.mp4?raw=true
